@@ -1,9 +1,12 @@
 {
-  "name": "node-sass-import",
-  "version": "1.1.1",
+  "name": "@giladgray/node-sass-import",
+  "version": "1.2.0",
   "description": "Allows usage of @include (of .scss) akin to require (of .js) in node.js",
-  "bugs": "https://github.com/anarh/node-sass-import/issues",
-  "author": "Emmanuel (Manny) Narh <eanarh@yahoo.com>",
+  "bugs": "https://github.com/giladgray/node-sass-import/issues",
+  "authors": [
+    "Emmanuel (Manny) Narh <eanarh@yahoo.com>",
+    "Gilad Gray <ggray@palantir.com>"
+  ],
   "license": "MIT",
   "main": "index.js",
   "files": [
@@ -13,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/anarh/node-sass-import"
+    "url": "https://github.com/giladgray/node-sass-import"
   },
   "keywords": [
     "node-sass-import",
